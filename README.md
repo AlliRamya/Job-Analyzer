@@ -16,4 +16,4 @@ A Streamlit web app that analyzes job market trends using real-time data.
 - Matplotlib
 
 ## ▶️ Run
-streamlit run app.py
+streamlit run jobanalyzer.py
